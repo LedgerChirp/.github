@@ -6,7 +6,7 @@ LedgerChirp - Building the Future of Technology
 a team of passionate coding enthusiasts, avid learners, and dedicated designers and developers who strive to turn innovative ideas into successful products. As an organization, we are committed to collaboration and working on world-changing ideas that drive progress and transformation.
 
 # Our Vision
-At LedgerChirp, we believe in the power of technology to shape the future. Our focus lies in the domains of Web Development, Blockchain, AI, and Automation. We embrace inclusivity and welcome challenges that push the boundaries of what is possible.
+At LedgerChirp, we believe in the power of technology to shape the future. Our focus lies in the domains of Web Development, Application Development, Blockchain, AI, and Automation. We embrace inclusivity and welcome challenges that push the boundaries of what is possible.
 
 # Founders
 LedgerChirp was founded by A team of coding enthusiasts at IET-DAVV with Mohit Aasirwal and Mustafa Azad as its founding members. With a strong passion for technology and a vision to make a difference, they have built a team of like-minded individuals who are dedicated to making a positive impact on the world through their innovative projects.
